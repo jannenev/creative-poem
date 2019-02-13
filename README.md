@@ -137,7 +137,7 @@ a change of standards in small scale. When it gets new nouns, then it changes to
 new standards, where different adjectives are now highly valued. The structures for
 the poems are not transformed at all, but are predefined by creator.
 
-The system does not have neither internal nor external evaluation for its final prod-
+The system does not have neither internal nor external evaluation for its final prod
 ucts. As such, it has nothing to transform towards. It’s products were evaluated
 and transformed to produce poems by creator when the system was created.
 
