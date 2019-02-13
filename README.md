@@ -84,6 +84,8 @@ As strong and as great as horse was. As old and as big as creation was.
 
 #### Creativity as Search
 
+In the context of (Universe, Rules, Evaluation, Method)
+
 U - Universe
 contains all possible concepts. That is all sequences of words, all poems. Also all
 ideas of what is poetic.
