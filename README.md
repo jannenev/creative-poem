@@ -8,11 +8,14 @@ poems. System then by using 5-grams from Google, transforms the search space
 to contain adjectives that are related to those nouns. (’as X as .* ’+word). e.g.
 "as red as an apple", would relate red to apple and add red to the search space for
 adjectives for apple. Weights are also counted by how often words appear.
+
 When adjectives are chosen by weights, system selects new nouns relating to those
 adjectives. "as red as an Y"
+
 These are then used for creating poem, that has insight into original words given by
 user. Structure for poems are few templates given by creator. CMU pronouncing
 dictionary is used for finding words that rhyme when pronounced.
+
 The goal of the system, to create something that is pleasing for humans, can not
 be done in isolation, but is highly tied to and defined by mankind and its culture.
 The choice of using 5-grams to get info from, will give system information about
